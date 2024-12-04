@@ -35,7 +35,7 @@ export default function App() {
   }
 
   return (
-    <Flex
+    <Flexs
       className="App"
       justifyContent="center"
       alignItems="center"
